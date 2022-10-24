@@ -1,4 +1,4 @@
-    LINK DO PROJETO SCRATCH:https://scratch.mit.edu/projects/742747378/
+    
 # Projeto Scratch - Jogo de pegar bolinhas
 
 Esse é o primeiro projeto que vocês vão fazer na Labenu!
