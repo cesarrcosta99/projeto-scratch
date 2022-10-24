@@ -1,3 +1,12 @@
+    LINK DO PROJETO SCRATCH: https://scratch.mit.edu/projects/742747378/
+
+Cesar@DESKTOP-R4JD0VN MINGW64 ~/Desktop/OZEMELA/aula-terminal/projeto-scratch (cesarrcosta-projetoscratch)
+$ cd readme.md
+bash: cd: readme.md: Not a directory
+
+Cesar@DESKTOP-R4JD0VN MINGW64 ~/Desktop/OZEMELA/aula-terminal/projeto-scratch (cesarrcosta-projetoscratch)
+$ cd README.md
+bash: cd: README.md: 
 # Projeto Scratch - Jogo de pegar bolinhas
 
 Esse é o primeiro projeto que vocês vão fazer na Labenu!
